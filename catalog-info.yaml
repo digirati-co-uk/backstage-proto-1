@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-proto-1
+  description: My new prototype
+  annotations:
+    github.com/project-slug: digirati-co-uk/backstage-proto-1
+spec:
+  type: website
+  lifecycle: experimental
+  owner: digirati-co-uk
